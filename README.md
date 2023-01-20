@@ -1,4 +1,7 @@
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
+## DATE:04-01-2023
+## NAME:MOHAMED FAREED.F
+## REF NO:22001617
 
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
@@ -36,6 +39,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+ ![Screenshot_20230120_084053](https://user-images.githubusercontent.com/121412904/213736254-d623671d-7cab-48d6-9526-934d5f7cc6b8.png)
+
  
  
  ## RESULT
